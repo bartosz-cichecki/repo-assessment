@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "repo-assessment-tools",
+  "description": "Claude Code plugin marketplace for objective repository assessment workflows.",
+  "owner": {
+    "name": "Bartosz Cichecki"
+  },
+  "plugins": [
+    {
+      "name": "repo-assessment",
+      "displayName": "Repo Assessment",
+      "description": "Two-step repository assessment workflow: build repo context, then assess the repository against its real purpose.",
+      "source": "./plugins/repo-assessment",
+      "category": "development",
+      "keywords": [
+        "repository",
+        "assessment",
+        "architecture",
+        "code-review",
+        "claude-code"
+      ]
+    }
+  ]
+}

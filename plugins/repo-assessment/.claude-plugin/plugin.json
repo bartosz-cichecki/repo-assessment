@@ -1,0 +1,16 @@
+{
+  "name": "repo-assessment",
+  "displayName": "Repo Assessment",
+  "description": "Context-aware repository assessment workflow for Claude Code.",
+  "author": {
+    "name": "Bartosz Cichecki",
+    "email": "bartosz.cichecki@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "repository",
+    "assessment",
+    "architecture",
+    "code-review"
+  ]
+}
